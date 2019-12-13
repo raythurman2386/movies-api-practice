@@ -2,3 +2,10 @@ GET http://localhost:4000/
 ###
 
 GET http://localhost:4000/api/movies
+###
+
+GET http://localhost:4000/api/movies/3
+###
+
+POST http://localhost:4000/api/movies
+Content-Type: application/json
